@@ -1,0 +1,85 @@
+ul {
+    list-style-type: none;
+    margin-top: 0px;
+    padding: 0;
+    width: 200px;
+    height: 1300px; ;
+    background-color: #729ceb;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+  
+#form-example2
+{
+    margin-top: 150px;
+    color: tomato;
+}
+marquee
+{ 
+    margin-top: 150px;
+    color: brown;
+}
+#welcome
+{ 
+    margin-top: 0px;
+    color: tomato;
+    font-size: 20px;
+}
+#name
+{
+  margin-left: 700px;
+  color: rgb(255, 6, 6);
+}
+#short
+{
+  width: 999px;
+  height: 30px;
+  background-color:#729ceb;
+}
+#pg
+{
+  color: red;
+}
+#ug
+{
+  color: red;
+}
+#scl
+{
+  color: red;
+}
+#certificate
+{
+  font-size: 30px;
+  background-repeat: no-repeat;
+
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .col-{
+    width: 100%;
+  }
+}
+#Academic
+{
+  width: 500px;
+  color: blue;
+  background-repeat:no-repeat;
+  
+}
+#skill
+{
+  background-repeat: no-repeat;
+  width: 500px;
+}
