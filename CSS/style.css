@@ -1,0 +1,138 @@
+ul {
+    list-style-type: none;
+    margin-top: 0px;
+    padding: 0;
+    width: 200px;
+    height: 400px; ;
+    background-color:rgb(243, 1, 1);
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+  
+#form-example2
+{
+    margin-top: 150px;
+    color: tomato;
+    margin-left: 250px;
+}
+marquee
+{ 
+    margin-top: 150px;
+    color: brown;
+}
+#welcome
+{ 
+    margin-top: 0px;
+    color: greenyellow;
+    font-size: 20px;
+}
+#name
+{
+  margin-left: 788px;
+  color: blue;
+}
+#short
+{
+  width: 999px;
+  height: 30px;
+  background-color:rgb(243, 1, 1);
+}
+#pg
+{
+  color: red;
+}
+#ug
+{
+  color: red;
+}
+#scl
+{
+  color: red;
+}
+#certificate
+{
+    color: blue;
+  background-repeat: no-repeat;
+  background-position: cover;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .col-{
+    width: 25%;
+  }
+}
+#Academic
+{
+  color: blue;
+  background-repeat:no-repeat;
+  background-position: center;
+}
+#resume
+{
+  
+  background-color: cornflowerblue;
+  
+}
+summary
+{
+  color: red;
+}
+#res
+{
+  color: white;
+  text-decoration: none;
+}
+#skill
+{
+  color: blue;
+  
+  background-position: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#btn
+{
+  margin-left: 400px;
+  margin-top: 17px;
+  color: white;
+  background-color: cornflowerblue;
+}
+.fa-thin fa-user-graduate
+{
+  font-size: 100px;
+  color: red;
+}
+#media
+{
+  color: rgb(209, 92, 46);
+}
+#mypic
+{
+  width: 96px;
+  height: 140px;
+  margin-left: 880px;
+  margin-top: -10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+#mypic:hover 
+{
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+#intro
+{
+  margin-left:210px;
+  margin-top: -170px;
+}
